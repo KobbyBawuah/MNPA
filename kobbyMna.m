@@ -112,6 +112,7 @@ subplot(2,2,3)
 histogram(CC)
 xlabel('C')
 ylabel('Number')
+
 subplot(2,2,4)
 histogram(GG)
 xlabel('Vo/Vi')
